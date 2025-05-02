@@ -22,9 +22,9 @@ A simple and functional URL Shortener web application built with **Spring Boot**
 - Maven
 
 ## 🖥️ Screenshots
+![image](https://github.com/user-attachments/assets/0d057364-54f0-4016-8030-bd60e8185c61)
+![image](https://github.com/user-attachments/assets/60260bf5-5b71-4d3b-bd37-9d03762261d4)
 
-![Home Page](screenshots/home.png)
-![Shortened URLs](screenshots/list.png)
 
 ## ⚙️ How It Works
 
